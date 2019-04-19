@@ -9,3 +9,7 @@ Citations data have been extracted from the MS Excel file in Supplementary Infor
 
 ## Figure 4
 Data are DOAJ metadata extracted on the 10 of March 2019 through the [web interface](https://doaj.org/faq#metadata); use this [link](https://doaj.org/csv) to download an up-to-date version of the file to your computer.  
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2647404.svg)](https://doi.org/10.5281/zenodo.2647404)
+
